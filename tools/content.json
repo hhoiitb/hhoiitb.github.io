@@ -1,0 +1,1329 @@
+{
+ "about-ananth": {
+  "title": "H2O Engineering Lab - About Ananth",
+  "blocks": [
+   {
+    "t": "section"
+   },
+   {
+    "t": "banner",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQcsT-D0kY9dqip59gRJ8I4-VOKR4rU3KL5dNtENU0jkXfmljUKHqwYc2dQpOb79OOQiq44j-yuNNn2Hra4RydvPh1kc6qy2AE3U7LfdK6MHkgfKCoJhv6C53pvIWJGgCNdwxAN9QCUClbCavtsAzoO-Mpsx10Kgy8E0nBgBEGJmXtGyaIjVyIe22rVG=w16383",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQcln94G6Ly68zgdvFJyH35WaO9WW89RXn6m3E0cKSILeS4Zs6-9fKT0yBE8Ry50fsUTGgx0P9e9-Ig87BpI_XHbLzmu56xPJSLnQfjEf6m668_hMxlv-XqP55eJ9UESN2sC3O9OPjTSZ1Oc_IL5_yeb54JXCHteC2woBeidU8aVGhyUP0qIAGc3_RirQ9CliknZZieFyYVtV-41PYgsD2aOWJcQO7ICHChuEuv5m-c=w1280",
+    "alt": ""
+   },
+   {
+    "t": "a",
+    "href": "/view/h2o-engineering-lab/about-ananth/education",
+    "text": ""
+   },
+   {
+    "t": "p",
+    "html": "Education"
+   },
+   {
+    "t": "a",
+    "href": "/view/h2o-engineering-lab/about-ananth/experience",
+    "text": ""
+   },
+   {
+    "t": "p",
+    "html": "Experience"
+   },
+   {
+    "t": "h2",
+    "html": "About me"
+   },
+   {
+    "t": "p",
+    "html": "I grew up in Tirupati, a town that is famous for Hindu temples in the Southern Indian state of Andhra Pradesh. I studied there for most part of my schooling and then went to Sri Venkateswara University to complete my Bachelors in Civil Engineering. I then moved to Chennai to obtain a Masters degree in Hydraulic Engineering as well. My enthusiasm to undertake a research career brought me to Australia, where I graduated with a PhD in Coastal and Hydraulic Engineering. I continue to work doing what I like most - research!"
+   }
+  ]
+ },
+ "_logo": "https://sites.google.com/sitesv-images-rt/APXyLQf0AwUhUKPffVZ7Mtah8bny7djrTbPki0EFFtu7v-6PWQcCxWDYvIZmwkYm3RGPEXoxGEG3TYlLsB1O9CIzGU9Smw_KSIHjjaIvYlT9xqWbSARRNpQPhWUz5Mi3--nuxR1iPFPKNVixce_cWHAG9mOhjjfjif1uMqyeQTWpUC1YTr16WyMIgpz02zZ0=w16383",
+ "about-ananth__bio": {
+  "title": "H2O Engineering Lab - Bio",
+  "blocks": [
+   {
+    "t": "section"
+   },
+   {
+    "t": "banner",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQcsT-D0kY9dqip59gRJ8I4-VOKR4rU3KL5dNtENU0jkXfmljUKHqwYc2dQpOb79OOQiq44j-yuNNn2Hra4RydvPh1kc6qy2AE3U7LfdK6MHkgfKCoJhv6C53pvIWJGgCNdwxAN9QCUClbCavtsAzoO-Mpsx10Kgy8E0nBgBEGJmXtGyaIjVyIe22rVG=w16383",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQfZjwCWgkE7dJtW8He5Z-Z7Muk2yakvI9ZEXQNRZ-9f6TPlnNg8VwQOp5m23loO8-DVg9MUDuW8kxjxWkn-kPtDjFwbAeMAHPZTyRcSQ5WeQB3EW2-ATdLru6eIBtjo3rb_YLp_jgAm2nC_iQn_JON_QHeZdcGWRdqP3pByR6jfpdRbYeDipiocZgtP-fBZLctc58730dZSpDfaxW1nvnvI-X0KMqPPZMW8usr78yE=w1280",
+    "alt": ""
+   },
+   {
+    "t": "a",
+    "href": "/view/h2o-engineering-lab/about-ananth/education",
+    "text": ""
+   },
+   {
+    "t": "p",
+    "html": "Education"
+   },
+   {
+    "t": "a",
+    "href": "/view/h2o-engineering-lab/about-ananth/experience",
+    "text": ""
+   },
+   {
+    "t": "p",
+    "html": "Experience"
+   },
+   {
+    "t": "h2",
+    "html": "About Ananth"
+   },
+   {
+    "t": "p",
+    "html": "I grew up in Tirupati, a town that is famous for Hindu temples in the Southern Indian state of Andhra Pradesh. I studied there for most part of my schooling and then went to Sri Venkateswara University to complete my Bachelors in Civil Engineering. I then moved to Chennai to obtain a Masters degree in Hydraulic Engineering. My enthusiasm to undertake a research career brought me to Australia, where I graduated with a PhD in Coastal and Hydraulic Engineering. I continue to work doing what I like most - research!"
+   }
+  ]
+ },
+ "about-ananth__education": {
+  "title": "H2O Engineering Lab - Education",
+  "blocks": [
+   {
+    "t": "section"
+   },
+   {
+    "t": "banner",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQef9gI_zG2MoFEFlut4bB4lQJ5a9q-JModJZTWlaenlxgpvityzETY8ZdecB79F-lBgWruRUGv9aMTIktrvAfa0m0Mcqp_NwA2vJph-hChhuciie7XiAsNjLIuX2w-bHVzID8OHNOW4t1sV-8OrOoIJg96zdb-dt9R7e4HrkMcrjx0PA6uy85TyC5pQmDE=w16383",
+    "alt": ""
+   },
+   {
+    "t": "p",
+    "html": "<strong>Education</strong>"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "banner",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQfRJ7EU6gJtOFQ4JbXkE-x6WhKf6VPrOy0CBWtF9N8cTy24nElSHwrWEMF8ybmSwhnftXuvJNJ14TXzBZHTKDnSAvVaczuRvX0AgmeWQYjEVmNm2-HgGY7R1trPFrZjP5HmHHaDE_QUCiJQyA-6THZkK1drKmeIHzHU8DMxklAOjv7quZKy86VQWQ-ei60=w16383",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQdCW5q3Hb-2zmiKFgg9r_44nk-jVoXKaMk2_Hh_ODHjC8R_xtzE8KX6xxeVYXxEGY1saa1z55EJEg47YqPvRqgST3oitXUYWOHHAj_r4vDFzT1A7G5P164CrcPuElpqKTc5hiaMkaVSBTnkPphu-TO9lfj5Rk00TgE1bTtMSDwt191wWYUbGoxIqYXvXR8KRFZxHdLQxoHwN_rXr2MG-8m7FbUDkya3u3fVFTuI=w1280",
+    "alt": ""
+   },
+   {
+    "t": "p",
+    "html": "You can find a comprehensive list of awards and achievements during my studies in my CV."
+   }
+  ]
+ },
+ "about-ananth__experience": {
+  "title": "H2O Engineering Lab - Experience",
+  "blocks": [
+   {
+    "t": "section"
+   },
+   {
+    "t": "banner",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQeOmy8f9TXiIxFBBxyhdNRUuOObJvq9Ibbw6KKR5vvIy9h6j5_5gOm2EsXmj6nEtFiABTFU27WJsSEiGP6qUZ2U0vh9SxNNjh_wejWFHko8bWDUe218Gu4RFQgZMO9AA6ZsN6yVczV1URYcTt3eiOP0-v6q5wmX7tlSGrikaRMD4A5zT_qO6Mz9KiroklQ=w16383",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQc38cbjEab9ALaLzq8GQShqAv3DR2La3yyL3ntuzbTCyXhVCix4uzv4uT3FXegqoNO1Meda7JMo16rpytIrEv6pW46DNb69kHRk9lLrRGDuwqDJR6ZdsZFL8BF8da6bP4tFUnFMLluwkuPSbkRxqBfEHBnvZwyPRaiHVvrdgnRwShXCrKJ8j3k00dsuPCugq8D9biTmOoCnKLZNBOVQzfJvqFIHmdFeAENvPEwwbq8=w1280",
+    "alt": ""
+   },
+   {
+    "t": "h1",
+    "html": "<strong>Professional experience</strong>"
+   },
+   {
+    "t": "p",
+    "html": "<strong>May 2025 - Present: </strong>Assistant Professor, Department of Civil Engineering, IIT Bombay, India."
+   },
+   {
+    "t": "p",
+    "html": "<strong>Feb 2024 - April 2025: </strong>Assistant Professor, Department of Civil Engineering, MNNIT Allahabad, India."
+   },
+   {
+    "t": "p",
+    "html": "<strong>August 2023 - January 2024: NASA </strong>Postdoctoral Scholar, Department of Coastal Studies, East Carolina University, USA."
+   },
+   {
+    "t": "p",
+    "html": "<strong>March 2021 - </strong><strong>June 2023</strong><strong>: </strong>Postdoctoral Research Fellow, School of Civil Engineering, The University of Queensland (UQ), Australia."
+   },
+   {
+    "t": "p",
+    "html": "<strong>January, 2018 – present:</strong> Casual Academic at UQ."
+   },
+   {
+    "t": "p",
+    "html": "<strong>July, 2018 – November, 2019:</strong> Writing expert and Tutor at Vygo, Brisbane, Australia."
+   },
+   {
+    "t": "p",
+    "html": "<strong>September, 2016 – May, 2017: </strong>Junior Research Fellow (Center for IC and SR), Department of Civil Engineering, Indian Institute of Technology Madras, India."
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "banner",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQdzuoFGaKVVgmfRG19lDfVb5jAVdVMq3iUDg20IedYTDknfHhp29nqVHJSEjYaW14ZpGG-H8j9kFNSV-X6mdn7ErxEdkBqVHJueyW91u4rmQH7uyCGmqvjj-n1eLbXTPJ_LuctT7gUQg_-OneMLnG7EQCWtf6PSDirWa71WSM_sw6LR05Oy097A0KUQxtg=w16383",
+    "alt": ""
+   },
+   {
+    "t": "h1",
+    "html": "<strong>Teaching </strong><strong>experience</strong>"
+   },
+   {
+    "t": "p",
+    "html": "Teaching fluids courses is my passion. During my time as a research student since 2013, I have tutored multiple undergraduate courses such as Fluid Mechanics, Hydraulic Engineering, and Coastal Engineering. Laboratory demonstrations are always my favourite part of the teaching experience."
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQdKnP5M5otZn992DGFk5A5ygGs2_1BPlhYyidlCxxsFrkz_E9LGG6epBryha3ral-blcwBbhEQgZ2oM4rzcAC_wK8bdQ9tHUMDHCQ4g4cBuMJm1Q6bxBoIrjcJ0s6Hc9P8oDtqT8gGHZu6zvPZmCYFAoR7HZuKC43QzC7YU2cwUBsEjp6UAUrNflu7SAkqUThNROfaVQKCkjdJZGBMI6fqQEs8llXSwUW48C9UYTGQ=w1280",
+    "alt": ""
+   }
+  ]
+ },
+ "contact": {
+  "title": "H2O Engineering Lab - Contact",
+  "blocks": [
+   {
+    "t": "section"
+   },
+   {
+    "t": "banner",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQf_QCsCw6W8BJbT7fTFPsAieEWw7v2N-X2rHZ27T_IkGA4oNWthPyV_CWmgO4_Ug_-GCPmy8Nv4LQuy9lu33FhOHAAIDUB6P_Zxr2qHgIIXxC4dlpE7Pb163xHc0RS6WiFSsvriWQ8lkQVLwc6sA-T9MC-nMtaFydUUx2GMgQaInVz7yv7X5-UicZ_J=w16383",
+    "alt": ""
+   },
+   {
+    "t": "p",
+    "html": "<strong>Contact</strong>"
+   },
+   {
+    "t": "p",
+    "html": "<strong>We welcome enquiries from potential students and collaborators for research opportunities. </strong>"
+   },
+   {
+    "t": "p",
+    "html": "<strong>Email: </strong><a href=\"mailto:a.wuppukondur@uqconnect.edu.au\"><strong>a.wuppukondur@</strong></a><strong>civil.iitb.ac.in</strong>"
+   },
+   {
+    "t": "p",
+    "html": "<strong>\t</strong><a href=\"mailto:a.wuppukondur@gmail.com\"><strong>a.wuppukondur@gmail.com</strong></a>"
+   },
+   {
+    "t": "p",
+    "html": "<strong>Phone: +91-22-2576-5323</strong>"
+   },
+   {
+    "t": "a",
+    "href": "https://twitter.com/ananth_w",
+    "text": ""
+   },
+   {
+    "t": "p",
+    "html": "Twitter"
+   },
+   {
+    "t": "a",
+    "href": "https://www.linkedin.com/in/ananth-wuppukondur-a37a6048/",
+    "text": ""
+   },
+   {
+    "t": "p",
+    "html": "LinkedIn"
+   },
+   {
+    "t": "a",
+    "href": "https://www.researchgate.net/profile/Ananth-Wuppukondur-2",
+    "text": ""
+   },
+   {
+    "t": "p",
+    "html": "ResearchGate"
+   },
+   {
+    "t": "a",
+    "href": "https://docs.google.com/forms/d/e/1FAIpQLSfKeH7BVposAWbYe5kncR7jQ6csj1WVFvrSMLA-plP_icUcSQ/viewform",
+    "text": ""
+   },
+   {
+    "t": "iframe",
+    "src": "https://docs.google.com/forms/d/e/1FAIpQLSfKeH7BVposAWbYe5kncR7jQ6csj1WVFvrSMLA-plP_icUcSQ/viewform?embedded=true",
+    "title": "Google Forms, Web contact form"
+   }
+  ]
+ },
+ "current-members": {
+  "title": "H2O Engineering Lab - Current Members",
+  "blocks": [
+   {
+    "t": "section"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQcgZFAGBzXdXytcN3IhmM9qA5kQkpjI_eVNWPI5642UZ29TSOtJDLo7Q1v75nHI0cN9Bv1NiZCWOsChGk1_VXykMnZOWfwiXu8nPDZFoaRang0iOdmuV7JT8vJ1faZ7ZT5_kjJQIrJ5uj-IQ2EAJDlLE5ewXnWUVE8zXH4paqLVeeiQYGLU2p7cerfGWN_7b3mOdDt7u_mqxz5gD_H3LFbo7SJjETD9lZg4wLsOFB0=w1280",
+    "alt": ""
+   },
+   {
+    "t": "h1",
+    "html": "Sajay S S"
+   },
+   {
+    "t": "p",
+    "html": "Sajay is currently pursuing his PhD.  He is a motivated graduate with dual master’s degrees in Applied Geology and Remote Sensing &amp; GIS, specializing in Marine and Atmospheric Sciences. He has a strong interest in coastal geomorphology, coastal ecology, and air–sea interactions, focusing on the effects of climate change on coastal and marine environments. His skills include coastal mapping, vulnerability assessment, sea level rise studies, and using remote sensing and GIS for marine research."
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQecNHJNQTnZRTeqLMT8e3kwoZb0eVTpVPiQTb3ConLodfsXHexLWe0m4HeK7MR7GLzLTwok1T1wtl2dCIs0lr3iac9jXXFfCLSLl9MV_YEeIgm9anLOmadbG3dDohX_Fgi5HVDACW3nFGchnTHAvDKDt_ilzslsTcNikeojRh4Pc4f7uHz7GQwfXLz4zNrtpfYzB9iLzebiOESmTn5rDxZQoOuDFpSEnCNVGynxmww=w1280",
+    "alt": ""
+   },
+   {
+    "t": "h1",
+    "html": "Murali"
+   },
+   {
+    "t": "p",
+    "html": "Murali is a Postdoctoral Fellow at IIT Bombay. He received his Ph.D. in Civil Engineering from the Indian Institute of Technology Delhi in 2025."
+   },
+   {
+    "t": "p",
+    "html": "His doctoral research focused on understanding the role of coherent structures and their interactions in the formation and growth of scour holes around bridge piers. He employed a novel Lagrangian approach, known as Lagrangian Coherent Structures (LCS), to extract and analyze flow features around bridge piers, and further extended this work to study local scour in curved channels."
+   },
+   {
+    "t": "p",
+    "html": "His research interests include river and ocean hydraulics, sediment transport, flow–structure interactions, flow through vegetation, and coastal flood modelling."
+   }
+  ]
+ },
+ "home": {
+  "title": "H2O Engineering Lab",
+  "blocks": [
+   {
+    "t": "section"
+   },
+   {
+    "t": "banner",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQfY_exKb_BEwMuVDdqTKq7pHgk47KJ5AGoQUf99p_IcDu3MHuZeFa3GxUvSDfapc5Fco2BFmSDvbho2KKJ2w4FVB0mR5bqTEX8J8PbS-PuyMdlO5DgI5EIRBuM7bOHCxW_aNv_uHaIHZhtiCCGJmqjr23omDy28wkwTyvkhZZ7uc4KK7pw-zVugNbv6=w16383",
+    "alt": ""
+   },
+   {
+    "t": "p",
+    "html": "Hi! Welcome to H2O Engineering Lab @ IIT Bombay"
+   },
+   {
+    "t": "p",
+    "html": "Our Hydro Hazards and Ocean Engineering Lab explores a broad range of research topics in Coastal and Ocean Engineering, with an emphasis on natural hazards that impact our communities. We are particularly investigating the hydro- and morpho-dynamics of tsunami, cyclone (storm surge), dam-break and riverine floods. We are also keen to study the benefits of nature based solutions in protecting our coastal communities from adverse events."
+   },
+   {
+    "t": "p",
+    "html": "Here you can find out more about the interesting research we do!"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQcGFrSKr9t7HX8s57-Mkbe1M7NRHaXwuQsK0tzPdLGcEBzHoR6c9mkpNbiFxRfUl-OYqaPPmn_cX6g5CYgyia5onvldlL7uU018WEi3OB9Nq6Qlei40RBaRUBMhMg7l6A0xJFmw-V8LjAgD17TFdHDfBA-wZ53uHyjFN1yke42820rdLeDSmV-XjJLAwIHiRH1ROMi1VvONcYgnHpvvseuJgYKPBVl_gtcMaoG_Vdw=w1280",
+    "alt": ""
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQcGFrSKr9t7HX8s57-Mkbe1M7NRHaXwuQsK0tzPdLGcEBzHoR6c9mkpNbiFxRfUl-OYqaPPmn_cX6g5CYgyia5onvldlL7uU018WEi3OB9Nq6Qlei40RBaRUBMhMg7l6A0xJFmw-V8LjAgD17TFdHDfBA-wZ53uHyjFN1yke42820rdLeDSmV-XjJLAwIHiRH1ROMi1VvONcYgnHpvvseuJgYKPBVl_gtcMaoG_Vdw=w1280",
+    "alt": ""
+   }
+  ]
+ },
+ "news-and-updates": {
+  "title": "H2O Engineering Lab - News and Updates",
+  "blocks": [
+   {
+    "t": "section"
+   },
+   {
+    "t": "banner",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQfS1z9WG8kKUtAGipycF148cteU0N5WmrXn3Ic-0l8boVlIAwLvs2c16GDW8xlvfjnUZ2aoUUN7wZdzUk3hfmz2m28cK7q8MS8avMkKsrDrg8NoEKs4Yp5rq7mx9BiOvNpaxHHnNcOnwLVPoxC8PRwYRzvht9ukZ_4fqqmG73F11NdXGojNPL-BGbEvo88=w16383",
+    "alt": ""
+   },
+   {
+    "t": "p",
+    "html": "<strong>News and Updates</strong>"
+   },
+   {
+    "t": "p",
+    "html": "As a researcher, we believe engaging with internal, external collaborators and communicating science is a crucial aspect to achieve the end goals of research application and implementation. To this end, we participate in delivering guest lectures, organizing workshops for early career researchers and conference activities."
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQcpmvAxBJZBTNNsLDidiCXLF_fmmSJQ2CmJhz1LxhFtWNb5ezjK-bcENxhE4joyNi5DoxhOGd7Y7OZsgylh0CL10vu-8PyYzXG17XRcz7k0Ce_zWGL-Q4hVO_BMX6f1sL99w78orZgqmJeF0X2_y4M5IO6aahJJbfIbny8OojcHGo3IbDUH5ap85wMWe6i4IcFaGN565OLnfUNJpWzzaQBLPG-oCz178sa2IBx-hqo=w1280",
+    "alt": ""
+   },
+   {
+    "t": "p",
+    "html": "🌊 IIT Bombay at India Maritime Week 2025 ⚓"
+   },
+   {
+    "t": "p",
+    "html": "Last week, Faculty members and students from the<a href=\"https://www.linkedin.com/company/ocean-engineering-iit-bombay/\"> Ocean Engineering IIT Bombay</a>, participated in the<a href=\"https://www.linkedin.com/company/india-maritime-week/\"> India Maritime Week 2025</a>, held at the NESCO Exhibition Centre, Mumbai, from 27–31 October 2025, and engaged with a wide range of stakeholders, industry leaders, and international participants, contributing to discussions on maritime technology, coastal resilience, and sustainable ocean practices."
+   },
+   {
+    "t": "p",
+    "html": "As part of the India Maritime Innovation Hub, the<a href=\"https://www.linkedin.com/company/indian-institute-of-technology-bombay/\"> Indian Institute of Technology, Bombay</a> established its chapter, and showcased its ongoing research projects, advanced laboratory facilities, and innovations in ocean and coastal engineering."
+   },
+   {
+    "t": "p",
+    "html": "In line with the vision of our Hon’ble Prime Minister, IIT Bombay signed three Memorandums of Understanding (MoUs) with the Government of Maharashtra to establish:"
+   },
+   {
+    "t": "p",
+    "html": "➡️ R&amp;D Infrastructure for Ship Design and Ship Building at IIT Bombay"
+   },
+   {
+    "t": "p",
+    "html": "➡️ A Centre of Excellence (CoE) for capacity building and training of manpower in Ship Design and Ship Building (SDB)"
+   },
+   {
+    "t": "p",
+    "html": "➡️ An e-Postgraduate Diploma (e-PGD) program for Maharashtra Maritime Board (MMB) engineers."
+   },
+   {
+    "t": "p",
+    "html": "These initiatives aim to strengthen India’s shipbuilding ecosystem through research, innovation, and skill development, reinforcing IIT Bombay’s commitment to advancing maritime education and technology."
+   },
+   {
+    "t": "p",
+    "html": "It was also a great pleasure to host Shri S. Viswanathan, IAS, Deputy Chairman, Chennai Port and Managing Director, Maritime India Foundation, along with his team, at the Department of Civil Engineering, IIT Bombay, on 30 October 2025."
+   },
+   {
+    "t": "p",
+    "html": "During his visit, we showcased the Department’s expertise in Maritime and Ocean Engineering and explored opportunities for collaboration further to strengthen India’s maritime research and innovation landscape."
+   },
+   {
+    "t": "p",
+    "html": "27/10/2025"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQfAGgcKkb1-gX5aD5l82uThDdHlYHVHTRfH3VcRZKtUGLmM5mgBYMLcpfCzXS96cEo80v24C3Pf5MX4WesN7NNaHlrczKfMEqYz6j8SgqIkwOqtXvRHBbKqjo3AhB-fzEP6oEymZA7ZUlrL5rBuBPGbhpajJ7rcbMzV2Ox3yMzFIYUZqfsr63juToWcIgVtYhDn9kcaDLu7-Si_z94Qce4LC41EZPdwFZ_K_FOjjYU=w1280",
+    "alt": ""
+   },
+   {
+    "t": "p",
+    "html": "🌊🌊 When Aksa beach became our classroom 🌊🌊 This weekend, our enthusiastic undergrad to PhD students participated in a field trip to Aksa beach. We had a great day measuring beach profiles and wave runup. The students are now going to analyze the data and present it in our class soon on their findings. Fortunately, there was no rain."
+   },
+   {
+    "t": "p",
+    "html": "11/10/2025"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQfgOqMr3vq2VxEGIUxNHpAHgdR0lqlLZuFy--W4NKZsxIMrRhN7NvVgJbKjd3ZAE7sRG_5F8In8L5t9mHnhISt-geVcMVpE8oDn2o0pWFfB3KwinH7NUcWtPZCoFJATI-5I4KSEhqgqpJNfKLShpkUunP-nyMqT_dxcDPnYIzV_pbXu9u_YDD26e4EB_nd-1Krz_NUm9ZrnIuu0lnxxcVyRsg1E5f3gmRqOjRYGcPM=w1280",
+    "alt": ""
+   },
+   {
+    "t": "p",
+    "html": "As a part of our weekly<a href=\"https://www.linkedin.com/company/ocean-engineering-iit-bombay/\"> Ocean Engineering IIT Bombay</a> meetings, we joined online to watch<a href=\"https://www.linkedin.com/company/ausycsec/\"> AusYCSEC</a> 2025. It was great to see engaging talks from Australia!"
+   },
+   {
+    "t": "p",
+    "html": "09/2025"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQdiRmegEswy-qQ49tdpi3eWmX7lcJmKL57kHjZcfRMmth5RoNx__qSJhY6hTXtpNmKVwnP8_PJxhboC1rc4imGXnLRiGCRv9Hd8LSqsBfPOY6X4v3euSK2mDGlLEmvZ5pwQPZDmKuzAQX53VZaXXmHzdM9DJ5J64WFSrMSq0l6TivpJTHeQ_yAVbumVfU_yhh-XxMgnSeKq1C5KcCw-al9BuZspRQAybkJdPOV27Dg=w1280",
+    "alt": ""
+   },
+   {
+    "t": "p",
+    "html": "🌊 Understanding the Impact of Tropical Cyclones on Coral Reefs in the Great Barrier Reef"
+   },
+   {
+    "t": "p",
+    "html": "As part of the IAHR YPN Western India gathering, we had the privilege of attending a talk by Prof.<a href=\"https://www.linkedin.com/in/awuppukondur/\"> Ananth W.</a>, who shared his pioneering work experience along with a team of multi-disciplinary researchers at<a href=\"https://www.linkedin.com/company/university-of-queensland/\"> The University of Queensland</a> on how tropical cyclones affect coral reef systems, focusing on the Great Barrier Reef, Australia."
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQdLzW7JIQp8ig3ohjq_esQuUWo_7Erp7Jp5prEjl5ZfTtIBMzwSWqyt8DqY7zhGqHsx1aVHxogFa4b9BGThpXN1O6ZLaXo25nXiGaTePhpnEloQhVN_FH1RCQXTLJ4GPisf430RIW0Gnbj3eRw0Tb0Erq8eDdesB9WMSm-uPmXTh8jNMJLvQXwe1m1MxtPnyamiLToBoXBv1vkVucvmN1zro34HdEjVbISGCmHZLTE=w1280",
+    "alt": ""
+   },
+   {
+    "t": "p",
+    "html": "<a href=\"https://www.linkedin.com/company/grow-iitb/\">GROW-N</a> is now a huge community of professionals, researchers, scientisits, professors and students from remote sensing, ocean engineering and water resources. While GROW has now expanded to become an online platform, we are still an active community within<a href=\"https://www.linkedin.com/company/indian-institute-of-technology-bombay/\"> Indian Institute of Technology, Bombay</a>. We have a team of entusiastic students who volunteer to conduct in-person<a href=\"https://www.linkedin.com/company/grow-iitb/\"> GROW-N</a> activities to bring us all together from time to time. With the new academic year, we also have a new set of students who came forward in organizing an orientation program. We had an opportunity to share some insights on why we need a community like<a href=\"https://www.linkedin.com/company/grow-iitb/\"> GROW-N</a> and how all of us, especially students can benefit from this community. We are looking forward to this year's activities that the new team have planned."
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQfhQPGlJzOfCYu4hlxmzDsYIYx5EXr_jQGw68TujqoWJl0czm6Jd740g6MTgUH9Q4EHboB59JSBOiTWoTsvuJ4uaXaSQRRovHz7s-ZP5IJNYF7fAXE1fWJu_49Ory1B3qr-MSnKQ9EOCzKLIS0b7Pha2vO17dZVmRLQRnZVLImyBaQyz5S_5EKms0jtiGq4SO44ZYML5Pfr0VnQ0YRgAXF7oR_Rer8pGvEXBQUqnuI=w1280",
+    "alt": ""
+   },
+   {
+    "t": "p",
+    "html": "We had the privilege of hosting Dr. Velamala Simhadri Naidu, Former Senior Principal Scientist at CSIR–National Institute of Oceanography, Mumbai, for an insightful seminar on “Coastal Development and Its Impact on Marine Environment.” Dr. Naidu shared his vast expertise on environmental impact assessments, coastal regulation, effluent disposal modeling and the challenges of balancing infrastructure growth with marine ecosystem sustainability. His career journey ranging from developing the buoyant jet model to training scientists, contributing to CRZ clearances has truly inspired the participants."
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQd0Q-eydPyt2xe4O90tzTVw8Pgc_HERUxpMBj00kIw7qinn04g77U2qgzl8z94HbBf502Ue-YlV7jfF0gjZ52vGbqwlz_YklveveqDMSxgPjiXYDwIIrEtvGwkYDZh5B3hxg6SeBkW5fUay0jly3MCu2_e6SwySqXUaLon2ZquDTyHd3Y5vZVTX2UHI5Tq5NG4llD1Sany42WGLe74i31RM3GFTDjnuG1msEaejbSU=w1280",
+    "alt": ""
+   },
+   {
+    "t": "p",
+    "html": "<a href=\"https://www.linkedin.com/company/ocean-engineering-iit-bombay/\">Ocean Engineering IIT Bombay</a> group at IIT Bombay was invited to attend Maharastra Maritime Summit organized by<a href=\"https://www.linkedin.com/company/maharmaritime1/\"> Maharashtra Maritime Board, Mumbai</a> on 16th July. This brought together several stakeholders to discuss Maharashtra's goal to emerge as a maritime powerhouse in India.<a href=\"https://www.linkedin.com/in/manas-behera-iitb/\"> Manasa Ranjan Behera</a>,<a href=\"https://www.linkedin.com/in/v-k-srineash-74086541/\"> V K Srineash</a> and myself are keen to be a part of this journey. The summit was inaugurated by the Hon'ble Chief Minister of Maharashtra."
+   },
+   {
+    "t": "h1",
+    "html": "Looking forward to the opportunities!"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQfviWeEvmBSOzb4jAuiCrgb1SLZH4ZVmpt5GqkF4QJYqMQLZSWmEVTZueyaRk4FN0hRcFubOMuVVB3TyQpQz--ZyYrcDnlU0QdTMsrv5Tpz4Fsp1QUkjnEEOejGLcBlido6U9BU6ZNlqY680FFD5CW9990OUwq5SqZkPSAWKUI7vOzQLzG4vS8O5HWZH7sVIN0hG3E6hE_rZwErU3gQkmY-SnCpMuGTHJ3krw-zg5M=w1280",
+    "alt": ""
+   },
+   {
+    "t": "p",
+    "html": "Our Ocean Engineering faculty and students participated in ICOE 2025 (Blue Economy &amp; Sustainable Ocean Innovations) and the<a href=\"https://www.linkedin.com/company/abcd-centre/\"> ABCD-Centre - Global Water and Climate Adaptation Centre</a> Workshop (Coastal City Resilience &amp; Nexus Approach) at<a href=\"https://www.linkedin.com/company/reachiitm/\"> Indian Institute of Technology, Madras</a>."
+   },
+   {
+    "t": "p",
+    "html": "The discussions and exchanges at ICOE2025 brought together leading researchers, practitioners, and industry experts in the field of ocean engineering, fostering collaboration and innovation. The ABCD Workshop further enriched the event with focused sessions on advancing research and applications. 🌊We are also excited to announce that the next edition, ICOE 2028, will be hosted at<a href=\"https://www.linkedin.com/company/indian-institute-of-technology-bombay/\"> Indian Institute of Technology, Bombay</a>"
+   },
+   {
+    "t": "p",
+    "html": "16/09/2025"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQdhHwcMOyCanl_tNIFAzdit00PTSw9PGhm47TJ0SHeQ3mk6Hk-KA0_TSex5jlnDN2CColI-iZmg5VZxHZq7pW-bOtAHuJXeTEy1PkDkl0_Qrgkr5QLqC7aQnv5nLV51M10m8uT3_u6Brcoc93rnlafupfz5lVdwBKVpKRMXgupdpnMv9HCGvueyWlh5cJZATWTXoXJio-o1bcuteSBZovm323eXkbCMxEs8nY_fyZk=w1280",
+    "alt": ""
+   },
+   {
+    "t": "p",
+    "html": "It was great to have<a href=\"https://www.linkedin.com/in/siddharth-narayan/\"> Siddharth Narayan</a> at<a href=\"https://www.linkedin.com/company/indian-institute-of-technology-bombay/\"> Indian Institute of Technology, Bombay</a>. During his two-day visit, we had a chance to have interaction and detailed discussions on collaboration and strengthening our research to solve complex coastal problems relevant to both India and USA. The enthusiastic students and staff of<a href=\"https://www.linkedin.com/company/ocean-engineering-iit-bombay/\"> Ocean Engineering IIT Bombay</a> engaged in meaningful discussions."
+   },
+   {
+    "t": "p",
+    "html": "<a href=\"https://www.linkedin.com/company/iahr-western-india-young-professionals-network-iahr-wi-ypn/\">IAHR Western-India Young Professionals Network (IAHR WI YPN)</a> is a great platform for young researchers and professionals working in Hydraulic/Coastal/Ocean engineering to network and get to know each other."
+   },
+   {
+    "t": "p",
+    "html": "I invite all active researchers in this field for collaboration with us and help us in contributing to a great good for the nation and scientific community elsewhere."
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQdLUS5keyEwMvOyUQac5HljuR8jmDIE6OvooSgA033PWzqIRPI8SyTVweWZqA9vVZVRsywRFq5zxUIhZqf-vjsWeANMOGlDuMGdJZL5pC6xcaWPDWNCdbNSUd78R0JH99SejTLmrcQTIqFju3LU-67DX8pjuYsKxcihzZW6lVsT8iDwXj5geGNUv97Pm5OdSXmJ6fPApMRHjoEfYxCTn6xCrf3k6CDJmqamBuO_DLw=w1280",
+    "alt": ""
+   },
+   {
+    "t": "p",
+    "html": "I attended Advances in Water Resources (AWaRe) conference at<a href=\"https://www.linkedin.com/company/nit-graduate-school-of-management-katol-road/\"> Maulana Azad National Institute of Technology (MANIT), Bhopal</a> organized by<a href=\"https://www.linkedin.com/in/muhammed-hashid-phd-64069555/\"> Muhammed Hashid, PhD</a>, to represent<a href=\"https://www.linkedin.com/company/ocean-engineering-iit-bombay/\"> Ocean Engineering IIT Bombay</a> along with<a href=\"https://www.linkedin.com/in/manas-behera-iitb/\"> Manasa Ranjan Behera</a> and<a href=\"https://www.linkedin.com/in/ayush-pratap-415988233/\"> Ayush Pratap</a>."
+   },
+   {
+    "t": "p",
+    "html": "I had an opportunity to participate as a panelist in an<a href=\"https://www.linkedin.com/company/iahrindiaypn/\"> IAHR India Young Professionals Network</a> event to share my career path and experiences so far."
+   },
+   {
+    "t": "p",
+    "html": "<a href=\"https://www.linkedin.com/in/basudev-biswal-53677560/\">Basudev Biswal</a> and<a href=\"https://www.linkedin.com/in/vinay-chembolu-83096941/\"> Vinay Chembolu</a> had an interesting<a href=\"https://www.linkedin.com/company/grow-iitb/\"> GROW-N</a> session and discussion on shrinking the 'faculty-student gap'. Great to be a part of this community!"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQd26AXUy56sPfweR_3LzfSzXmVQFLRw-k4q_rs-3jb0ET07qJLibclR3gbtR293ZLNASRu3wULyHDswzx41Sl7-WXcOpYiTo2RKjgQ_ZusTdbMroQOVB-3yWC-dKMvPxroJNbPiNxSOmC1EKw8nLgpMIDeOYJTszH5Pb4P_XqAIOsnPuHe_irxeCvoL=w16383",
+    "alt": "Carousel image"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQe-AnHdPCNU6ZVZF_kec1nNz5l0bdYiYoGGUCGmWpKgI8Wk8g7BL5PHcNowlMafUA9yuQgc9Tw-f-lwL-s4-qdIe8SYUT2g3I2tnN3kVnI_k_tZ1GHPILIzsRKze6npA305bXvF2cx_qBT6W0YTTAGMnxJ9JR2Yia20rB_2p90lrY50GgIPa4jxnGeKZT4=w16383",
+    "alt": "Carousel image"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQdK0Xy1r1sKFPxwdurL5U5mS4Q9O6WxjTNAG7uve-vC_xSBltcCxT-E3NwSHMoscmIP32PqCO0XAuk2lfJ2b0L-RxIZduV7PxP6ciIdtkCzp9b_BQmo57EfW4mTlIA4aZkRJa_gcd7vcPw5uFElY5QmDock2-DMaiJ10sbpJlrLQIRt8AMglhl9_FTz2d4=w16383",
+    "alt": "Carousel image"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQdDRpJbQ-5M1pBLQ4x4BjE1OTBRskDW4Xozu2rk6giLkrP-rwCygIKzJGgvRiiktFskVExnVlSCz5uN-wmfjTo_n2SGLEbG9SzvZ1VPA8-OzFB_br7w7wrOjUBy0GF5-wG1k8PsgeX60NPlFxYhJxCjPiduegCpizXpW-OPTdPPjFwP08UVYlkri65jQZQ=w16383",
+    "alt": "Carousel image"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQekCj50QGS7TFyTMcCnafHtEzA6fAFVXY2esCkDE45cqkxG7y0q7WldhCwE0xhsdm22KHWEI_PeU18VoFzI_7G3sS4vw4ShTVmxFxN-MnW7lUxAi8ggij0hIYPFFt-_TcE-EPM3Mr4r_RqM3x5vxdcp5r8xA3PMc1LmyHOgN1x3SEceGgCrllfNi4Og=w16383",
+    "alt": "Carousel image"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQcrsE60LEde_bmAj8OZxlC75BLxDYwxb0hSj2OIoJSSWiXJP7ZBgKiyf8ziWGiJZh25BhQauTLPIseIYeZqmkj0sVaZUwf2xhz2XDFLv-C0OTQBZndznqCiWNPHol-Ji12eNsyRZ3nA4tJn1xWSAEgBX2C0KiR7RQdY7xvhlfycYrO7Zho20COz78sP=w16383",
+    "alt": "Carousel image"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQdfmQwidZlI_MEVEnxRuyuCyAY1dhHHMWfhIe5NUY601k7LWgV1v0psTDX0o7VY1lZMsXHskQSw1egl-3MtW7qsWDiyxm6nvNEvlFfX1JrY5OR7b9FipMqHo21Hq3YrRgL9P40tEBXRpm73zuuq3YRVFmaQ7J9cB33IdfgSwU1WInxMAAefRnIWSrJY=w16383",
+    "alt": "Carousel image"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQd85gx3lu1_UjyZfoJGyTfeFOq_MeOxXSOv7Cm8vCS_FbctM_OHky6XxAms5cnfCnyoy4V7715po1yehT7AS5x4fnPUVtN_fJVy3VKqaiS2S-TpS3tNAQgJfEoAj6kgTil7SrFAAW3otfdqj5DzsTTSecyeS9s4ayjIuHT2W8PgHf6WCk_rUIyY1wnh=w16383",
+    "alt": "Carousel image"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQfZrWFsZKdJy4x2ZmDAONmw9C6pQivTCx7tjwy0aBEEjs90lO4Jnf9yh3XryBaxDfJNneFa4FZMDGl_PeTzAQfRw3_4MDqSaUdWEH9f0hVCAtqSMRa11i1V4ZdC6YhtVkyCn933VMrRdriXTnIb0-oDb_2WbaVwiNhAe_Iigu7BoQjo7H-3BfEaXuNN=w16383",
+    "alt": "Carousel image"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQcgINPZEaFPd0pNd58LYZUjiFZ2BPdskCQtauieyKASi9okKu1cApQRaIb0Wg19WN9zcxFGoJysnhzHyoZY7Hcsm7UFkaxzn1rAXhLquaBKLEAE0MePCKIycFnlZeuq8ekTvqhw7cnX7OT_1BbGSa1VEp_aDES1eJooiKTdH5tB8ZOsjSA7hVer954ZgNc=w16383",
+    "alt": "Carousel image"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "p",
+    "html": "At a one-day workshop on \"Overcoming interdisciplinary challenges of marine science\", November 2021:"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQeVeh1jyfV0LCaNKG2rHsLY5zzIqz-ttOGTudTB17k5nkNU8dudw_xsamEfZFM2iP-Ge6pj-WuDEF9Th0T34xWx9gMB8uZZAHLV1f9fV1M4pM39BnvIcBwR9iM3RRfLRbSARP9O90n_ObuUR0DnE5HY8pSVIbXcY5F85ddGZbfGZITV1WKC4GGLK0K_BlKwye19clA7h46E1-KA7ub2-mCDAY0O5uwWc4oVaRxO=w1280",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQereqXIJtf5EBHqoB0OTtRpJ_or0sgD8eCJ8el0gCshQDHk5tCZU9c0gPrJZw8DAeYnLoW7uhT1KZ_oblbeMuHYSq48ZX8nVkvgZl8ssKSwuObCVDJIFwc3-VFDiLCwDjTYHKEX7ReRE2kPf2inscx45XhH0j44Y28dy3xeBSgOgDR_2-0cTRqap6Z1dt2omPqePNlG_9mt-axAKPiFE7_bwAFc-LLATwf3X6Q1Xo8=w1280",
+    "alt": ""
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "p",
+    "html": "Invited speaker and member of judging panel, UQ-India Flood resilience challenge, September 2021:"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQfQtoHzIhk4uq4ZcIBSwTfOiszR5aSsgfULLMth7dOSTv6VmPpibbn6g_8Q480viPi1Cq35yUkkEbxZhaOASoKtysVbMM3KSb7_XbqsmlYEQINLLFPTLB47vj9RRC6r26gbF0GrNnPV6VrVEpfZ42NCOw59PBMjlNU-MCq4m63obHTAjiPm1p3XWSYEN21lJ4zh5yjS1sEmSBkcfu_FCrh8IXXHFm8JsmmJ-C5LYks=w1280",
+    "alt": ""
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "p",
+    "html": "Invited talk at a Faculty Development Workshop, Jawaharlal Nehru Technological University Kakinada, India:"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQdf3NcwxuSC0tywlmjqoh7t74X22ef9b8rCexsw4YfNXFKSwqyaqnkzpelF-lODKktZs4Uc2h5YNg4hewO2bPL6hP3aEUmYHDQ8zPHFTzu4kFEs5M87KSWDULcY0cxbh1t-jKkFLyHyLOGH4tpJXRJP8xhJA_3rSw6ZhkT0_Hx8I-XDyVPXfRa4Nhy5NSct7eTYcVRlCyfqpbqqtz5a-rnMPxYohuc9nuYZNAwoaCU=w1280",
+    "alt": ""
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "p",
+    "html": "Invited talk for Australasian Fluid Mechanics Student, Early to Mid-Career Researchers Community, August 2021:"
+   },
+   {
+    "t": "iframe",
+    "src": "https://www.youtube.com/embed/E0x14YJRBHg?embed_config=%7B%22enc%22:%22AXH1ezllnfE35URf9MhpZrGBdEHgvzxJ3zl0nPOOYbWg1EiUBFEG46YwUGFOrrqMHhSceP9Dti3Zbi8BLJQT2x1r9U0dJIFv-3vwzwpwjuxsxOoKYHJqEt8LLGnZJGi3ew_urT9znS7FMEFO97D1rkGqbwRHQS8P97y32Chmr3CscYdEOpA2rJ2msmgU1g7Kcw2mK_S6cOZ9Mz7ncu_wxEdg3IB_4xmIszXREMBMkNH5HDgUoK5ff-iq_A4374yR8C8C4zWMcf_QNvoKI5sH-KBVmijVlu-6L7gJJtBeIQ-3oFhK6dB25Yc945bVm77Iy_j7ylSNHFI2YlNj7KDAs5JB_sEna31UrROcbESMYpWGG4rm%22%7D&enablejsapi=1&errorlinks=1&origin=https://sites.google.com&vl=1",
+    "title": "YouTube Video, AFMS Conversations in Fluids - August 2021 - Ananth Wuppukondur (University of Queensland)"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "p",
+    "html": "Engaging with participants at 2nd Australasian Young Coastal Scientists and Engineers Conference, June 2021:"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQfRWPgkQKtX2X496BVcNXTJ0OTCzD8JkIuyaWut3HkKSvI7TyXM8tkhzbSG5lRWqbaMJRDfh-Zz6Ex4fZcObHCHs2CSq-UIEpnNf5O3njAfVLtRNNW3mx5rORy6tUaAupoM-WKnfcJfCJLtlwU-ZIIYfDp9j_NA2YS5GPCOxGxbqrbleZMWPMi2-TTu-1Aoyk1Z4jRRIlIpPxMIkHu-IGuoIStaJbygEPmbZ6LhYxI=w1280",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQfsI-cThMVu0rkngKNhM0pKOUlDRFU1R9h1rwF9crkea1YaVlJ4icGRbf68xS4FQUKEqzR35IX4Hl0uttQZFlbAw5KxlgVlEN-r1waHO3J8FT9999yN2UQwLYEGqTwDRwiFEvQsD-uqeKzgGBald3gqLmjumtPrFgB2NNPHzUmHLygVhXfyrDIkLXABV5Lj48H0Mqf2EWX-gJtjknx4VSgkN1XBkCUoJzSdeXxoacA=w1280",
+    "alt": ""
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "p",
+    "html": "Fieldtrip with third-year undergraduate Civil Engineering students in Semester 1, 2021:"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQfxJeh9WeJA3e6rsd34mc9EtdxVEEReimMwcO2XZClUxk3a-6IiWw9u7kVVwbpKHgNEJzS4hx5CF055x4n61sDz7DS2RMLtKThu_gxqK3vm3J0NtINO6ZttAsoDvp21WDD7VrW2c2h1xLPR2lwcEHT6usWdB_RaJab2wDQUmpzn0Iw-9v-pF22n_qM-mo1fnMv6l26pYXuBqUmW0P7qFScbanc_cmCr4RzLgeJk=w1280",
+    "alt": ""
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "p",
+    "html": "At Brisbane CFD meetup, July 2020:"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQd-r6KWTvvceKSEdntCSYgl76q3vljzRvJeg4Zyie4o5GAGrm12b_6tqUTnPrUUvhHoXXUd-FBTRqFsusg1ElFANOqDUDMPST-yuFkkYIgtnl4eUFrqCy2Oz3C6OaR6AG07yZSQqUNYs-10yqDz6BPPVujwsMkYhZ3wzcoqTW0NQxU_7E2SV7XfGSwaQfQmJDR93-bzRAJDaNbesF5wYksNjYJWZAuaoIrNU-fjIHY=w1280",
+    "alt": ""
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "p",
+    "html": "Participating in UQ \"Celebrating women in STEM\" breakfast, February 2019:"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQeZ84cFJeU8D00eWt3lPbFi1BNdeZ5tYvA2uM49evHQdaq0UxF0CvONyHEcihyHk5HGesX-pEHECdew2yxg_q-ScAwAoH1Sotr-wPodUdL0b1ZYz3HGd-U4PbqO3W8Gg4eTOaSzBZA8y3b-eMR38Nzq7NSQeC5MA9e_e8I_paeNjknE0HAHTa2RNzCsocXwvQ47WfdmRcleQ4_21hihKsMsB9vAQcVcnsqxPVwVz7o=w1280",
+    "alt": ""
+   }
+  ]
+ },
+ "projects": {
+  "title": "H2O Engineering Lab - Projects",
+  "blocks": []
+ },
+ "publications": {
+  "title": "H2O Engineering Lab - Publications",
+  "blocks": []
+ },
+ "research": {
+  "title": "H2O Engineering Lab - Research",
+  "blocks": [
+   {
+    "t": "section"
+   },
+   {
+    "t": "banner",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQch9HH39mHkm1gabTJLcoEgkmqrzpS2qTgb7ECSmbUsDFWuKyzWrzriW7yqYD142UYN9gX7Vvp2lDv7gY8RUiTeWP3rV0RZwUP4uU5MSeL2t1yYs9b008K62IOBLNbw8QJzthHCoiv9d82BdEJzwdpqcYOBgApQ7Ym-YJNIk7C64nt9Ks9HoqPOVaVrXWQ=w16383",
+    "alt": ""
+   },
+   {
+    "t": "p",
+    "html": "<strong>All about research</strong>"
+   },
+   {
+    "t": "p",
+    "html": "We am actively engaged in research related to various aspects in the field of Coastal and Hydraulic engineering. Our main research interest lies in understanding and solving fluid-sediment-structure dynamics using physical and numerical modelling. Analytical modelling is something we very enthusiastic about and its application. Here you can find a list of projects we have been working or previouly worked on. You can navigate to project specific webpage for more details."
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQfPLLLaSTet4tHpndMd2_kC9HigwQhHv6vXcIBbUIEk5VG_OdOkAzFdeAIa4XMAddpxZOkQ6Uhp0r_UR6XRklUeEiAL5bweDthhMgM7gIPqw8HFkPNEDTYopHyLGOnY1iRgEwiVIA6yWYSrETuqBDvU0dIcdTIuygozaUcUKRXxMqM_xDSfshefWmZMaSbuYOyuj3ucw8ojwikf9jdNN7cuxGHq5-N8CFEReSGb=w1280",
+    "alt": ""
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "a",
+    "href": "/view/h2o-engineering-lab/research/great-barrier-reef-restoration",
+    "text": ""
+   },
+   {
+    "t": "p",
+    "html": "Great Barrier Reef restoration"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "a",
+    "href": "/view/h2o-engineering-lab/research/tsunami-impacts-in-coastal-rivers",
+    "text": ""
+   },
+   {
+    "t": "p",
+    "html": "Tsunami impacts in coastal rivers"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "a",
+    "href": "/view/h2o-engineering-lab/research/tsunami-runupovertopping",
+    "text": ""
+   },
+   {
+    "t": "p",
+    "html": "Tsunami runup/overtopping"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "a",
+    "href": "/view/h2o-engineering-lab/research/scour-around-bridge-piers",
+    "text": ""
+   },
+   {
+    "t": "p",
+    "html": "Scour around bridge piers"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "a",
+    "href": "/view/h2o-engineering-lab/research/scour-around-wave-energy-converter-device",
+    "text": ""
+   },
+   {
+    "t": "p",
+    "html": "Scour around wave energy converter device"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "a",
+    "href": "/view/h2o-engineering-lab/research/scour-around-artificial-reefs",
+    "text": ""
+   },
+   {
+    "t": "p",
+    "html": "Scour around artificial reefs"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "a",
+    "href": "/view/h2o-engineering-lab/research/sediment-entry-control-into-intake-canals",
+    "text": ""
+   },
+   {
+    "t": "p",
+    "html": "Sediment entry control into intake canals"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "a",
+    "href": "/view/h2o-engineering-lab/research/sediment-transport-at-river-confluences",
+    "text": ""
+   },
+   {
+    "t": "p",
+    "html": "Sediment transport at river confluences"
+   }
+  ]
+ },
+ "research__great-barrier-reef-restoration": {
+  "title": "H2O Engineering Lab - Great Barrier Reef restoration",
+  "blocks": [
+   {
+    "t": "section"
+   },
+   {
+    "t": "p",
+    "html": "<strong>Great Barrier Reef restoration</strong>"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQeWmImPFXRi1qdiAbbvYSKBSerOcNtRkOlG0NwoOS_Npq8sh5gzkCyBwvkCG8kKTA95EpES3Pyx_jefkvkSzcGgQdigSx7s1CiPV-fa1nExnqtEbcZ3CNtGTvf-XBz5QZOgHSRQkQNRe6sQ96BbBdxkhBiwB8FjdE-oyGB49OCACH8lE-IcItUS-kTPHQbz1zbjGsUIUZEwUc7d_hxhJ7BTjBP400SBB3bsdnjcS2s=w1280",
+    "alt": ""
+   },
+   {
+    "t": "h1",
+    "html": "This is an exciting project I am currently working on. In this project, we aim to understand the impacts of everyday waves and cyclonic waves on coral structural integrity. By investigating the threshold forces for coral breakage, a Grat Barrier Reef scale model is being developed to predict coral rubble generation and also rubble motion. Rubble motion is a serious problem that inhibits regrowth of coral due to constant motion."
+   },
+   {
+    "t": "a",
+    "href": "https://gbrrestoration.org/program/rubble-stabilisation/",
+    "text": ""
+   },
+   {
+    "t": "p",
+    "html": "Read more"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQcwNJYQ1fx_sJdZxfkbYbaFuZqUyeGdktLlAyG-1FS8Hxvs2rlfXWbSLdJrfs424KB4UjBVih9C8lcLpCr5385fJP2wWRCK52h8o2JE4oyz-37cKyLX0sD6mUYu_vTwgSRloqK0aOSbsAAppNzovvQh_WIYWnbmHq7bWeQ8tVf5YKyUsGTQZ53ca6XVxDWfbzgGbvarvxcqZNP_ghe5_iGe5GayJuCwLEn1wA=w1280",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQfFjDyPlko7uQJYEMO4-sQloRbho49P2vBSoNQZ_HIM6H7kSyV0IVsXfsKYfVG4EBwuLSnRN7bR4OewK_HN2hTdLKwFLMc4TAprpEu7kTeVgzTyued_8rCZVM9WAmnmTEGXt4-xA990dSepbqacN7e-gLoHiyInkGyHwN6Qr6onXe9f9AP-6aAEz3ph5LfPRzjJc0Pt9DlgRLW7ugkoZXos0mpx5n5Bhuw77hCh_ro=w1280",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQf8Qsy5u9ONHiY8SYUHH6WjFJAYlKPZUwgrzuDdBx2wmT_3rxvLN01mdAnZ7WZHqiRpryeGTkfaoRmO9THYiR31DQYhCZO5Kax26jnpUwkJQpv34LRILHth5Fbp_x8KRh8Kuh2ALdK6O0lUt8f99i9utQ1rrsMBglNwaC5hDuOcwZhwgnQdgkZfSNbnXrMU62xHcDqfwr4lB52VKbyLvDagl9ZkR6pjajKUN1SE=w1280",
+    "alt": ""
+   }
+  ]
+ },
+ "research__miscellaneous": {
+  "title": "H2O Engineering Lab - Miscellaneous ",
+  "blocks": [
+   {
+    "t": "section"
+   },
+   {
+    "t": "iframe",
+    "src": "https://www.youtube.com/embed/6q0nkbxQw44?embed_config=%7B%22enc%22:%22AXH1ezmGeuzi-mlwrE8TZp7NtxO6-Z6OHRI3rVB1hxI7POH7ZnhsouxE99aMqopr3wZVkYIpYEpc-jFdUat_uakxZ64YzVQKoZ7lgKHCttbMkzziwEZSew5M8k3F6PnzwSiHaiOWLZQeYL5inAQIi1SQs2v-VsW86W-hQ4JuI3gedNkW1TLXWZleatxt6m7-HlnrNijcDeKImCiLIe59Bazs1AW35-9jY0GdIA60qmrWyrQZ6o1UcH04voAR76UztTHyTD5dOALC07X7oUFuWk35TV6Cs8wJvo9OFLbPyR2a4gYnu3UvFsCdATF7r6rSJIewsKTBAoKg5Pi5qHHTfSVnSh9SNyETqa1HQHYWP3R8Dd9C%22%7D&enablejsapi=1&errorlinks=1&origin=https://sites.google.com&vl=1",
+    "title": "YouTube Video, Particle mixing under waves"
+   },
+   {
+    "t": "iframe",
+    "src": "https://www.youtube.com/embed/B23UVwXum74?embed_config=%7B%22enc%22:%22AXH1ezm3H5qep9m_vEahqI73z_zhKL64Y16Fx98NOX0PCaiDf7QJ-QeXFVlfFvrogEYDBftO55x33-u__qd2B93Lx2i1MHBr7mvMAK5_cQkOStFql2oorkaTdr7x_KdA178wLJJim0KtmNKTWrEabe1YDmiK6U7irNmPxv3-_tGyI5xiQDR7MJ-UopEzuf53rgKOKaL6Bqo6nWgatOeRn766GRulbIyLQ4lZu2NSIbG6bVUREhvZenqZYt4aEokSmi4DCCITUa2J4L1WnziRF7ftUGDPAoBJDIL0uhTgvaad-_peU1fZn5ULIPLD0ugiQ_DWiDMTfC9KHtSCoWfXcQG3tG7_RSwlt9HclBvQsHmJ6uZb%22%7D&enablejsapi=1&errorlinks=1&origin=https://sites.google.com&vl=1",
+    "title": "YouTube Video, Larvae connectivity"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "iframe",
+    "src": "https://www.youtube.com/embed/K4z2W9SEvRU?embed_config=%7B%22enc%22:%22AXH1ezlLYiNfnHJYuoVBSyihTXcYdMs1c8DJ6gI4UcbITT0OMu8p_aMrokPEiLoXKBSStUw-HmCtEmAiSDOfyg4RvXSkn_5Aq4G51WULjRfgyU66AHo4AlC32UTquMUNbKgyW9zrIfOqsE_bxTwq_xeho64TbRQkpyOvzjrpdEh80nyzuQDcJ8N3VCWXCJYpZvTVlAoFkl7bOsBTrfNGJz3s1qGdWFAAOMLtHghfu7sTOl8Sjk3_iJJCykBZz13xWQMUMU0GQKL_0v5a0qLifzd0JQn_Hfnh6ymtpfbPNOAoixFlIp6DlfbJzilM6cl38RwwaA_1NSeCFaVVdVKmHsETgBREKiG701dcawEwOr2Tr-yz%22%7D&enablejsapi=1&errorlinks=1&origin=https://sites.google.com&vl=1",
+    "title": "YouTube Video, CIVL2131 Prac3 Friction in pipes"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "iframe",
+    "src": "https://www.gstatic.com/atari/embeds/7688ba9b59f5a8d43ece826f5920d868/intermediate-frame-minified.html",
+    "title": ""
+   }
+  ],
+  "expired_video": "https://espace.library.uq.edu.au/data/UQ_734964/CULV_V4_Practical.mp4"
+ },
+ "research__research-overview": {
+  "title": "H2O Engineering Lab - Research overview",
+  "blocks": [
+   {
+    "t": "section"
+   },
+   {
+    "t": "banner",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQch9HH39mHkm1gabTJLcoEgkmqrzpS2qTgb7ECSmbUsDFWuKyzWrzriW7yqYD142UYN9gX7Vvp2lDv7gY8RUiTeWP3rV0RZwUP4uU5MSeL2t1yYs9b008K62IOBLNbw8QJzthHCoiv9d82BdEJzwdpqcYOBgApQ7Ym-YJNIk7C64nt9Ks9HoqPOVaVrXWQ=w16383",
+    "alt": ""
+   },
+   {
+    "t": "p",
+    "html": "<strong>All about research</strong>"
+   },
+   {
+    "t": "p",
+    "html": "We am actively engaged in research related to various aspects in the field of Coastal and Hydraulic engineering. Our main research interest lies in understanding and solving fluid-sediment-structure dynamics, natural hazards using physical and numerical modelling. Analytical modelling is something we very enthusiastic about and its application. Here you can find a list of projects we have been working or previouly worked on. You can navigate to project specific webpage for more details."
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQfRIivpkz422Mg8RymmS7UC8mcpkmwjThKDR0a-E6isEdaaTs_JuqnRnOjTldRshUthTmkqRZClEh8TxYGzxlnmEXDi0Nw3Ov3tLGqw9w6BJXGe2cTgt4cFgfvFcxX_oEgF4CeBDyTK1LgpATM80joNPl1rkuuXWHDgiGxb-tNrhX4nGOX31cYCuLEJwdfqzDh58-YXjFOa_XRcsrtjK8tN9Dd9r9Y4KOengenN=w1280",
+    "alt": ""
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "a",
+    "href": "/view/h2o-engineering-lab/research/great-barrier-reef-restoration",
+    "text": ""
+   },
+   {
+    "t": "p",
+    "html": "Great Barrier Reef restoration"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "a",
+    "href": "/view/h2o-engineering-lab/research/tsunami-impacts-in-coastal-rivers",
+    "text": ""
+   },
+   {
+    "t": "p",
+    "html": "Tsunami impacts in coastal rivers"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "a",
+    "href": "/view/h2o-engineering-lab/research/tsunami-runupovertopping",
+    "text": ""
+   },
+   {
+    "t": "p",
+    "html": "Tsunami runup/overtopping"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "a",
+    "href": "/view/h2o-engineering-lab/research/scour-around-bridge-piers",
+    "text": ""
+   },
+   {
+    "t": "p",
+    "html": "Scour around bridge piers"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "a",
+    "href": "/view/h2o-engineering-lab/research/scour-around-wave-energy-converter-device",
+    "text": ""
+   },
+   {
+    "t": "p",
+    "html": "Scour around wave energy converter device"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "a",
+    "href": "/view/h2o-engineering-lab/research/scour-around-artificial-reefs",
+    "text": ""
+   },
+   {
+    "t": "p",
+    "html": "Scour around artificial reefs"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "a",
+    "href": "/view/h2o-engineering-lab/research/sediment-entry-control-into-intake-canals",
+    "text": ""
+   },
+   {
+    "t": "p",
+    "html": "Sediment entry control into intake canals"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "a",
+    "href": "/view/h2o-engineering-lab/research/sediment-transport-at-river-confluences",
+    "text": ""
+   },
+   {
+    "t": "p",
+    "html": "Sediment transport at river confluences"
+   }
+  ]
+ },
+ "research__scour-around-artificial-reefs": {
+  "title": "H2O Engineering Lab - Scour around artificial reefs",
+  "blocks": [
+   {
+    "t": "section"
+   },
+   {
+    "t": "p",
+    "html": "<strong>Scour around </strong><strong>artificial reefs</strong>"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "h1",
+    "html": "Artificial reefs are designed for multiple purposes including coastal protection, marine life habitat and to improve wave surfability. Understanding erosion due to waves and currents at the artificial reefs is needed to ensure their functionality is retained for longer years."
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQcf5Sag38O-ty271db1Je8OSuaKOEn-fn9ZBukp_2L5YqJ0OSxm9iZE5sXjRv5KFquUrG4DsEOpZiCeDWA735w1MlL-KOMo4vRh_X0CFl3Wt0qdAZUsXXIfAcVnPDQQqp9Ihqx9ezzmerZIkhvawlP_H0bvh6qiuLLHawKr5DdE7lHb0gdVKFlXWH6sefDglWUFwbum-kIeFozzbLdGd37-AmgDSslZsF9spnt3QQE=w1280",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQdsRIlD1pZ_EK3suHb4jFPI6txtkFykJmXcIZkW-SEykc_f2aB-y9EgvzSB8LHMOrIXGkafIcgaB8kzRkS4hELh_rnkQpMnqPK0fzBe9WESMaQgt29BrgPzhSZA9qF066M2WSO0Ug6okuJ06aX5cvGljE14b6jegeEencx5R5LKGxCKLvVPZczeHRR4ijWz5sNmrtpD6RbcqKygkqi4D5Wegprf1r3EwxlSfUEIPsA=w1280",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQfAiE7BW5u_ea96ZxvOLIEnn_vxEzsbDWrRORW5AZFlMOUX5L4u-Hx1mbSVXRicupoJp29NPZpRDOcSmu4gDlmugD49xdQZBER1J4DKLzhqicmIg15PpgKu90HLaB-wHrL-PRyPylKzXeqyVcRc1VyZuw9M6k1rFatU3TsVpa1pOkzU7H-mZyYza9EXGux3LV6kKlFzJWeN215D2IP3ZyBt02YFf2a9Ld2QjTYKpL0=w1280",
+    "alt": ""
+   }
+  ]
+ },
+ "research__scour-around-bridge-piers": {
+  "title": "H2O Engineering Lab - Scour around bridge piers",
+  "blocks": [
+   {
+    "t": "section"
+   },
+   {
+    "t": "p",
+    "html": "<strong>Scour around bridge piers during tsunami</strong>"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "h1",
+    "html": "Erosion around bridge piers is a widely research topic in open channel flows. However, the knowledge on erosion around piers during tsunami is fairly new. In this study, I conducted experiments to eliminate time scale effects to accurately measure tsunami scour depth around bridge piers. Interestingly, it was observed that the tsunami scour depth is twice that of steady flow scour depth. Hence, the empirical steady flow scour equations cannot be applied to design bridge piers."
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQeYQGf6ODfPJk_qz2niPgmFwYj66vfD4EcCrn56Kgh-UT5rchxiMa3PXdbQnjiK39Ww6Vyg_zz6IhxghZxWZS90DQOs_P2-rOlfHCjXlKn7CPl-LnJWSA-4-Q3IOjeIIBN_zF6mfUHpsfrH7VClyxoWg86WHyOf-7Q7tEC0poC-uCHMMkJNRtG3UwxlDQ0wIQgXS6nDpEbTUVr9fIvBt0IXGPO-GgGZrEM7IJ3lo_o=w1280",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQenM6HKo-sJcmZopKI4NBMd0yOz1zxRpg3Ul968AZuYvU0HWayT6xa43POM8G-Z45hn0CY38CnqQiqu7p3lZtLRi7Q-95QnlszSmYYRd8VteZuApfXrRQe0ugmJ4dr8Apa9f8qCz57pEk2A8m544Q3EKlCPgk0jz3LEjU0_tpIz6OuqHUhSmFBwAHPYctZ3yfm7qU6IiffH3wv8woARYYHy50pC0mFJ9HTRg-R-BI0=w1280",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQfNXCAnC-LQtOiadCvl0RXUIwgO5TafyIqvdolio4lLvct_6NRCRoXTCPwXHR8O0zBwXnt9Nt-OpLnqnLmUvaLvTsQ2-5w_uf4bXPvmhPOPE0SidsQ3GHwvtJQvVHUSQk-GlaEnxz_V010f9GEz7vK90H55ueZqDneDcyrQ7Pjazc3ReQgpXgZ561BLtY4b6ATatT_3M81uT8gP0876rhwp8W_F4REVnoQ87bO5=w1280",
+    "alt": ""
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "iframe",
+    "src": "https://www.youtube.com/embed/xRFZSAD5qu4?embed_config=%7B%22enc%22:%22AXH1ezkt9Q4Z4U7ACdNwDHfAbup4YJbHAmHe8G121tg4E-r4Bo3_HH5IoCKbTuS9lzck1i1OCE5MVUT03BJiqT0Cr74TE2xWgkP4a_znN3vz0DCVQ7ENEG4ZxtW1qzo7tlD53uA_BTNX-mXeYg5WuCyTr2nWLydbWYYC8b3btb1k4gvDSJgsmRHaice7fMTi-YtT-vjjwjrVtVSGWxvZVs0395mvfoMXTxAMgvs3ecOdBzO_lUKCF0gueE6CRcN5ZLhFdqNk_UDoB33PzqJc74oreDyG4NlMyFP3cgVXtdG2QJomre0cfOQD2ZLZf32AHUxDUFOh9c9-wFStw7dtTM7C6otrs6Z5k7vBOfL3ArG3vIiQ%22%7D&enablejsapi=1&errorlinks=1&origin=https://sites.google.com&vl=1",
+    "title": "YouTube Video, 0298 - Flow hydrodynamics and scour around bridge pier during tsunami propagation in coastal rivers"
+   }
+  ]
+ },
+ "research__scour-around-wave-energy-converter-device": {
+  "title": "H2O Engineering Lab - Scour around wave energy converter device",
+  "blocks": [
+   {
+    "t": "section"
+   },
+   {
+    "t": "p",
+    "html": "<strong>Scour around </strong><strong>wave energy conversion devices</strong>"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQdkPqmQ2HEriaDVUZXtmsZiNgTJT-M3CoPk-1_YrEP8hRKRlPcS5plo85333TY4T7RFfRBZace3CHsTnvtNbFIjasrhejGfBzwOFHlf94oVsRwcHHw-ZNIGEM9ieMWZRBKHfTr_XOZOzMf4BnVoTGICROI-EBhJyhgfTTFPEMk05cQPcxoKPHP5aYUqUHckh0LngYZVELNSO7z7E2sIFE53GsVWdR_1EtoM-sPHSJ4=w1280",
+    "alt": ""
+   },
+   {
+    "t": "h1",
+    "html": "With the increasing concerns about climate change and its impacts, renewable energies have been alternate solutions for energy production. However, the structures in the oceans are subjected to various impacts of waves including erosion and destabilization. Hence, these experiments were focused to measure scour depths at wave energy conversion devices."
+   }
+  ]
+ },
+ "research__sediment-entry-control-into-intake-canals": {
+  "title": "H2O Engineering Lab - Sediment entry control into intake canals",
+  "blocks": [
+   {
+    "t": "section"
+   },
+   {
+    "t": "p",
+    "html": "<strong>Sediment entry control into intake canal</strong>"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "h1",
+    "html": "Intake canals are used to withdraw water from rivers for various purposes. Sedimentation in the intake canal reduces the quality and quantity of water being delivered. In this study, experiments were conducted to control sediment entry into an intake channel using submerged vanes in a physical model with a rectangular mobile-bed main channel and a trapezoidal rigid-bed intake channel diverting at an angle of 45°."
+   },
+   {
+    "t": "a",
+    "href": "https://ascelibrary.org/doi/full/10.1061/%28ASCE%29WW.1943-5460.0000474",
+    "text": ""
+   },
+   {
+    "t": "p",
+    "html": "Read more"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQcMJNFpGkOTtqko0cAMgAH5XK9iIfw6WLkoxraOBylgO3VR9W6OzFJCDfRHacTBwR3I80Gq33S8RaX3l958YzxmDBKdTFkktNODmc2IHXRpn-20giKy5dDWqAr7RHfjqU8Tfk_fYs-20pmxpWJVy-ATJZBnoa4PeAeRD6ZUbODncnh214hPJfU7VCxdjfj4ap9WXGxQtLJ1NyMEgb7wQYQXSMTun9CV31UmnUHk3Yg=w1280",
+    "alt": ""
+   }
+  ]
+ },
+ "research__sediment-transport-at-river-confluences": {
+  "title": "H2O Engineering Lab - Sediment transport at river confluences",
+  "blocks": [
+   {
+    "t": "section"
+   },
+   {
+    "t": "p",
+    "html": "<strong>Sediment </strong><strong>transport at river confluences</strong>"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQewN12c8K5RKc7dokDHXZaz14ER4gY8tDIiYBPswQ0d7dExYN-InNa7msShfuy2giSzpGmAeMmC7Wv7KwGXSEmyLRpzk4EKMh4vKqnOJVbDpr4G3UA3OT45VSbf__G3wX_XIkOzo9m6Vdx1Y2paliFbidGBiYj4-4jPqJtIJIjLdSpqDa-2QFm704ze7nrLWb6XN0gOWGy1VL6ru5_9Tqc5dGIXtTYVaIqlyT96=w1280",
+    "alt": ""
+   },
+   {
+    "t": "h1",
+    "html": "River confluences are complex sites with strong turbulence, flow mixing and bed erosion. They are considered to be one of the reasons of sedimentation in reservoirs downstream. However, all the previous research focused on understanding the turbulence at the mixing layer for different configurations of the confluence. Hence, through this study, we proposed using vanes and circular piles to reduce the bed erosion and in turn, reduce sedimentation in the reservoirs."
+   },
+   {
+    "t": "a",
+    "href": "https://www.tandfonline.com/doi/full/10.1080/15715124.2017.1307846",
+    "text": ""
+   },
+   {
+    "t": "p",
+    "html": "Read more"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQdi9AbYgVSaOETLOvtckcU6p45R5QBQyY7YuOwcFKEzRDfBGeZeogRuTvUN6sd0Il4OpdlGGLTq5zvJR1eYt9cu8u-jDPSEiSaN61_wt3LE9OXjJlyth5-vl-cmc1bz0anCqqe_NcMyBR9-qFKYgDfsb7lD3zEczM4uoc_5Fx2KJVJpY7MynwHl5XmoPhuF50I51j1KFyCFmRHDQfNdkoFbb8k41bIK43TjA4Mv=w1280",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQeleRmI6P0pySaHSmNOFuONyV5J1rgCz84VCYK1gqnc743rWovPzf7oNZnk2ajd_egCzXb4bfZ8ZIpIlo2KRBRV1Olf_6_CapXONsdZP_XdQ3yKOUenaEhQ_di8eV7_j8YTGKV4Qpy1RzGXqdCDJokZ_lp6sRb1pN8g-7BkIQ8k2xAfQm3qJ93ShrCH_mWo8ZHFR45n7NIPuNrKJJGPlLOS8znP0-w021TUBkGdR1A=w1280",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQd3jQ0JaKPg8rmL677dociW0eR432l354LlAKdSU1zxJptve4s6cYB4dYpsYXVtBznbOj4oQGNHnJtr9vV0VPKCpH-biSnanbv-8QvnT7tvLbluLv4IE8wR-Mc8qhqWhqjLISA2tKx8gCUAC27XEalRWe_4FCyjmb9wn5emzbgnFpO3GadGGmGNd2_ShsTjhsJ43Whz1gBYW5LPEPyX5GRUAoXZAG2qBKPMhlQQSjc=w1280",
+    "alt": ""
+   }
+  ]
+ },
+ "research__tsunami-impacts-in-coastal-rivers": {
+  "title": "H2O Engineering Lab - Tsunami impacts in coastal rivers",
+  "blocks": [
+   {
+    "t": "section"
+   },
+   {
+    "t": "p",
+    "html": "<strong>Tsunami impacts in coastal rivers</strong>"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "h1",
+    "html": "Tsunami propagation and inundation is a serious problem for communities built-up along coastal rivers. It is often neglected in the research to consider how tsunami propagates and inundates the areas adjacent to a coastal river. In my research, I studies variation of tsunami characteristics such as wave heights, velocities and inundation volumes along converging channels. Physical, analytical and numerical modelling was used to predict tsunami overtopping volumes along the channel. In addition, the application of numerical models needs to be done with caution and expertise to be able to accurately predict these phenomenon."
+   },
+   {
+    "t": "a",
+    "href": "https://espace.library.uq.edu.au/view/UQ:042c06b",
+    "text": ""
+   },
+   {
+    "t": "p",
+    "html": "Read more"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQcWzaISIzlhoEJRh3Wfny4C4pE2S_-PbIRy8TQIuu_vY2BSw5GxEQOwERtuwq_46u7PkdmuuZXMAYhbVzBy421Oej6_-Imasb-tIgUZ0NLtq5PIMZYTLDA3iEvfA_OaRpVHhCbgVRM_ucAqcRq30ytmXJIIOqgl92r8MRwtJNTtzYrOy-T_QRvkIs6bVlxeRgnYN6BV9UNjycR5HiR7yM3rxIzdpf2hT6r6zN-1X-w=w1280",
+    "alt": ""
+   }
+  ]
+ },
+ "research__tsunami-runupovertopping": {
+  "title": "H2O Engineering Lab - Tsunami runup/overtopping",
+  "blocks": [
+   {
+    "t": "section"
+   },
+   {
+    "t": "p",
+    "html": "<strong>Tsunami runup/overtopping</strong>"
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "h1",
+    "html": "Research is currently underway to understand the protection offered by various defense structures against tsunami. To this, runup and overtopping are the two important parameters characterized, to estimate the protection offered."
+   },
+   {
+    "t": "section"
+   },
+   {
+    "t": "img",
+    "src": "https://sites.google.com/sitesv-images-rt/APXyLQcmNGLN6j4-XtbGShkHDyNEzEZfPDNCkYguKBVOZ2-vYK69s-Ynfdi6Wc5FpgCqnfigJ2NvVhpO02KQ2A36C_rF-Qxlghqcxx6dtS406d7cdkNTII4BUx5SVRfP5sDYvRlbzipkvmGzA13CTUilBvIW_UpwgkEE5XVOC42TShikJg7jz6zyPjh7Ve75x4warSbxY_Mp_voGrrp0Y9XJNpQOBvUHtAJUKHdRWNNF=w1280",
+    "alt": ""
+   }
+  ]
+ }
+}
