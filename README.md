@@ -1,5 +1,7 @@
 # H2O Engineering Group website
 
+Live site: **https://hhoiitb.github.io/** (GitHub Pages, branch `main`, folder `/`).
+
 Website of the Hydro Hazards and Ocean Engineering (H2O) Group, Department of Civil
 Engineering, IIT Bombay. It is a plain static site (HTML + CSS, no build step needed)
 for GitHub Pages. Content was copied from the original Google Site
