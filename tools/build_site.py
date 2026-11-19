@@ -127,8 +127,7 @@ NAV = [
     ("publications", []),
     ("projects", []),
     ("news-and-updates", []),
-    ("contact", []),
-]
+]  # Contact: only the "Contact us" button (desktop) / last menu item (mobile)
 EMAILS = ["a.wuppukondur@civil.iitb.ac.in", "a.wuppukondur@gmail.com"]
 PHONE = "+91-22-2576-5323"
 SOCIAL = [
@@ -450,6 +449,8 @@ def nav_html(active, pre):
                          f'<ul class="sub">{sub}</ul></li>')
         else:
             items.append(f'<li class="current">{a}</li>' if cur else f"<li>{a}</li>")
+    items.append(f'<li class="menu-contact{" current" if active == "contact" else ""}"><a href="{pre}{PATH["contact"]}"'
+                 f'{ac if active == "contact" else ""}>Contact us</a></li>')
     return '<ul class="menu">' + "".join(items) + "</ul>"
 
 
