@@ -687,12 +687,13 @@ def p_education(pre, logo):
 def p_experience(pre, logo):
     key = "about-ananth__experience"
     entries, teach, photo, teach_img = experience()
+    photo = "assets/img/contact-1.jpg"  # sunglasses selfie (user's choice); the boat photo moved to the gallery
     tl = "".join(f'<li{reveal(i)}><span class="when">{esc(w)}</span><h3>{esc(r)}</h3><p>{esc(o)}</p></li>'
                  for i, (w, r, o) in enumerate(entries))
     body = page_hero(key, pre, "Experience", crumbs=["about-ananth"])
     body += f"""<section class="section"><div class="wrap split flip" style="align-items:start">
 <div><span class="eyebrow reveal">Career</span><h2 class="reveal">Professional experience</h2><ol class="timeline">{tl}</ol></div>
-<div class="portrait-wrap reveal" style="position:sticky;top:110px"><div class="portrait"><img src="{pre}{photo}" alt="{PI_NAME}"></div></div>
+<div class="portrait-wrap reveal" style="position:sticky;top:110px"><div class="portrait"><img src="{pre}{photo}" alt="{PI_NAME}" style="object-position:72% center"></div></div>
 </div></section>
 <section class="section tint"><div class="wrap split">
 <div class="reveal"><span class="eyebrow">Teaching</span><h2>Teaching experience</h2>{''.join(f'<p class="lead">{fix(t, pre)}</p>' for t in teach)}</div>
@@ -819,7 +820,7 @@ def p_empty(key, pre, logo):
 def p_news(pre, logo):
     key = "news-and-updates"
     intro, carousel, posts = news()
-    carousel = carousel + [banner("contact")]  # the old Contact banner photo now lives in the gallery
+    carousel = carousel + ["assets/img/about-ananth-experience-2.jpg"]  # boat photo (was on Experience); selfie moved to Experience
     track ="".join(zoom(pre, c, f"News and Updates – photo {i + 1}", "hl") for i, c in enumerate(carousel))
     feed = []
     for n, p in enumerate(posts):
