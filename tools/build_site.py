@@ -90,6 +90,11 @@ for _b in CONTENT["home"]["blocks"]:
                       .replace("Ocean Engineering Lab", "Ocean Engineering Group"))
 IMG_DIR = ROOT / "assets" / "img"
 SITE = "H2O Engineering Group"
+# logo files, made from the H2O logo GIF/PNG by tools/make_logo.py
+LOGO = "assets/img/h2o-logo.png"                 # still seal, 600 px (footer, no-JS fallback)
+LOGO_ICON = "assets/img/h2o-logo-64.png"         # favicon
+LOGO_ANIM = "assets/img/h2o-logo-intro.webp"     # intro animation, plays once (home page)
+LOGO_ANIM_SM = "assets/img/h2o-logo-intro-sm.webp"  # same, small (header)
 FULL = "Hydro Hazards and Ocean Engineering Group"
 PI_NAME = "Ananth Wuppukondur"
 
@@ -514,7 +519,7 @@ def layout(key, pre, logo, body, desc=None, home=False):
 <meta property="og:title" content="{esc(title)}">
 <meta property="og:description" content="{esc(desc)}">
 <meta name="theme-color" content="#061b2e">
-<link rel="icon" href="{pre}{logo}">
+<link rel="icon" type="image/png" href="{pre}{LOGO_ICON}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Sora:wght@500;600;700;800&display=swap" rel="stylesheet">
@@ -524,7 +529,7 @@ def layout(key, pre, logo, body, desc=None, home=False):
 <body>
 <a class="skip" href="#main">Skip to main content</a>
 <header class="site-header scrolled" data-solid><div class="wrap">
-<a class="brand" href="{pre}index.html"><span class="brand-logo" aria-hidden="true">{animated_logo("hdr")}</span><span><b>{SITE}</b><small>IIT Bombay</small></span></a>
+<a class="brand" href="{pre}index.html"><span class="brand-logo" aria-hidden="true"><picture><source media="(prefers-reduced-motion: reduce)" srcset="{pre}{LOGO}"><img src="{pre}{LOGO_ANIM_SM}" alt="" width="56" height="56"></picture></span><span><b>{SITE}</b><small>IIT Bombay</small></span></a>
 <nav id="site-nav" aria-label="Main">{nav_html(key, pre)}</nav>
 <a class="btn btn-primary nav-cta" href="{pre}{PATH['contact']}">Contact us</a>
 <button class="menu-toggle" aria-expanded="false" aria-controls="site-nav" aria-label="Menu">{icon('menu')}</button>
@@ -607,8 +612,7 @@ def p_home(pre, logo):
 <div class="reveal"><span class="eyebrow">Who we are</span><p class="lead">{intro}</p>
 <a class="btn btn-line" href="{pre}{PATH['research']}">Our research {icon('arrow')}</a></div>
 <div class="art-card logo-art reveal" style="--d:.15s" data-logo-anim title="Click to replay">
-<img src="{pre}{logo}" alt="H2O — Hydro Hazards and Ocean Engineering Group logo">
-<template>{animated_logo("home")}</template></div>
+<img src="{pre}{logo}" data-anim="{pre}{LOGO_ANIM}" width="600" height="600" alt="H2O — Hydro Hazards and Ocean Engineering Group logo"></div>
 </div>
 <div class="hazards">{hz}</div>
 </div></section>
@@ -867,22 +871,6 @@ def p_contact(pre, logo):
     return layout(key, pre, logo, body)
 
 
-def animated_logo(uid="a"):
-    """Inline copy of assets/img/logo-animated.svg with its CSS class names prefixed (lg-)
-    so they cannot clash with the site's own classes, and its ids made unique per copy."""
-    svg = (ROOT / "assets" / "img" / "logo-animated.svg").read_text(encoding="utf-8")
-    svg = re.sub(r"^<\?xml[^>]*>\s*", "", svg)
-    for i in ["sealTop", "sealBottom", "sealDisc", "oCounter"]:
-        svg = svg.replace(f'id="{i}"', f'id="{i}-{uid}"').replace(f"#{i})", f"#{i}-{uid})").replace(f'"#{i}"', f'"#{i}-{uid}"')
-    names = ["d", "f", "ring", "spin", "grow", "pop", "drop", "rise"]
-    for n in names:
-        svg = re.sub(rf"\.{n}\{{", f".lg-{n}{{", svg)
-        svg = re.sub(rf'class="{n}"', f'class="lg-{n}"', svg)
-    for kf in ["draw", "fade", "ring", "spin", "grow", "pop", "drop", "rise"]:
-        svg = svg.replace(f"@keyframes {kf}{{", f"@keyframes lg-{kf}{{").replace(f"animation-name:{kf};", f"animation-name:lg-{kf};")
-    svg = svg.replace('width="680" height="680"', 'role="img" aria-label="H2O Group logo"')
-    return svg
-
 
 def subscript_h2o(page):
     """Write H2O with a subscript 2: <sub> in visible text, Unicode H₂O in titles and attributes."""
@@ -899,7 +887,7 @@ def subscript_h2o(page):
 
 def build():
     build_image_map()
-    logo = "assets/img/logo.svg"  # new H2O Engineering Group seal (Nov 2026)
+    logo = LOGO  # H2O seal (Nov 2026); assets made by tools/make_logo.py
     for key, path, _ in PAGES:
         pre = "../" * path.count("/")
         if key == "home":

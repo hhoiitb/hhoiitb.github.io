@@ -2,3 +2,6 @@
 tools/google_site_backup/
 __pycache__/
 
+
+# source files for the logo (5 MB GIF); rebuild with tools/make_logo.py
+tools/logo_source/

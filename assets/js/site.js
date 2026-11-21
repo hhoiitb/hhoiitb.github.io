@@ -43,15 +43,24 @@
     items.forEach(function (el) { el.classList.add('in'); });
   }
 
-  // animated logo: drawn when it scrolls into view, click to replay
+  // home logo: the intro animation (animated WebP, plays once) starts when it scrolls into view;
+  // click to replay. A fresh blob URL restarts the animation without downloading it again.
   document.querySelectorAll('[data-logo-anim]').forEach(function (box) {
-    var tpl = box.querySelector('template');
-    if (!tpl || window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    var img = box.querySelector('img[data-anim]');
+    if (!img) return;
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) { box.classList.add('playing'); return; }
+    var url = img.getAttribute('data-anim'), blob = null, n = 0;
+    var show = function (src) {
+      img.onload = function () { box.classList.add('playing'); };
+      img.src = src;
+    };
     var play = function () {
-      var old = box.querySelector('svg');
-      if (old) old.remove();
-      box.appendChild(tpl.content.cloneNode(true));
-      box.classList.add('playing');
+      if (blob) { if (img.src.indexOf('blob:') === 0) URL.revokeObjectURL(img.src); show(URL.createObjectURL(blob)); return; }
+      if (window.fetch && location.protocol !== 'file:') {
+        fetch(url).then(function (r) { if (!r.ok) throw r; return r.blob(); })
+          .then(function (b) { blob = b; play(); })
+          .catch(function () { show(url + (n++ ? '?r=' + n : '')); });
+      } else { show(url + (n++ ? '?r=' + n : '')); }
     };
     if ('IntersectionObserver' in window) {
       var lo = new IntersectionObserver(function (en) {

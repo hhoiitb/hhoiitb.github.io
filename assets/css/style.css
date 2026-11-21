@@ -74,8 +74,7 @@ p { margin: 0 0 1.1em; }
 .site-header.scrolled { background: rgba(255, 255, 255, .96); backdrop-filter: saturate(160%) blur(14px); box-shadow: 0 1px 0 rgba(6, 27, 46, .08); }
 .brand { display: flex; align-items: center; gap: 12px; text-decoration: none; flex-shrink: 0; margin-right: auto; }
 .brand img, .brand-logo { width: 56px; height: 56px; object-fit: contain; flex-shrink: 0; display: block; }
-.brand-logo svg { display: block; width: 100%; height: 100%; }
-@media (prefers-reduced-motion: reduce) { .brand-logo svg * { animation: none !important; } }
+.brand-logo img { display: block; width: 100%; height: 100%; }
 .brand b { display: block; font: 700 1.08rem/1.1 "Sora", sans-serif; color: #fff; letter-spacing: -.01em; transition: color .3s; }
 .brand small { display: block; font-size: .72rem; letter-spacing: .14em; text-transform: uppercase; color: rgba(255, 255, 255, .7); transition: color .3s; }
 .scrolled .brand b { color: var(--ink); }
@@ -467,9 +466,11 @@ p { margin: 0 0 1.1em; }
 /* H2O subscript */
 sub { font-size: .62em; line-height: 0; position: relative; vertical-align: baseline; bottom: -.25em; }
 
-/* animated logo: hidden until it starts playing (static logo is the no-JS fallback) */
-.art-card.logo-art.playing img { display: none; }
-.art-card.logo-art svg { display: block; width: 100%; height: auto; filter: drop-shadow(0 24px 40px rgba(6, 27, 46, .3)); }
+/* home logo: the intro animation starts when it scrolls into view; with JS the still logo is
+   hidden until then so it does not flash before the fade-in (no-JS: still logo shown) */
+.art-card.logo-art img { display: block; width: 100%; height: auto; }
+.js .art-card.logo-art img { opacity: 0; }
+.js .art-card.logo-art.playing img { opacity: 1; }
 
 /* members page: "more coming" note */
 .members-note { margin: 48px auto 0; max-width: 640px; text-align: center; padding: 18px 24px; border-radius: 999px; border: 1.5px dashed var(--line); color: var(--muted); font: 500 1rem/1.5 "Inter", sans-serif; }
