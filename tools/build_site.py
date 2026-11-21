@@ -389,6 +389,14 @@ EXTRA_MEMBERS = [
         "He specializes in hydrological&ndash;hydraulic modeling (HEC-HMS, HEC-RAS), coupled coastal modeling "
         "(Delft3D&ndash;SWAN&ndash;XBeach), field-based wave and surge attenuation analysis, dam break and "
         "uncertainty analysis, and GIS-driven socioeconomic coastal risk mapping."]},
+    {"name": "Saurabh", "role": "PhD Scholar", "photo": "assets/img/member-saurabh.jpg", "paras": [
+        "Saurabh S Thakare is a PhD Scholar in Ocean Engineering at IIT Bombay and an Offshore Structural Engineer "
+        "in the offshore hydrocarbon sector. He completed his M.Tech in Structural Dynamics and Earthquake "
+        "Engineering from VNIT Nagpur in 2023.",
+        "Driven by a strong interest in marine and offshore systems, his research focuses on floating aquaculture, "
+        "with an emphasis on the integration of floating breakwaters with fish cages for sustainable offshore "
+        "aquaculture. His areas of interest include ocean engineering, offshore structures, aquaculture systems, "
+        "floating bodies, and wave&ndash;structure interaction."]},
     {"name": "Ashok", "role": "M.Tech Student", "photo": "assets/img/member-ashok.jpg", "paras": [
         "Ashok is currently pursuing an M.Tech in Ocean Engineering at IIT Bombay and holds a Bachelor&rsquo;s "
         "degree in Petroleum Engineering. He has a strong interest in coastal and ocean engineering, particularly "
