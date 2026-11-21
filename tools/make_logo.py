@@ -18,7 +18,7 @@ ROOT = Path(__file__).resolve().parents[1]
 IMG = ROOT / "assets" / "img"
 SRC = ROOT / "tools" / "logo_source"
 GIF = Path(sys.argv[1]) if len(sys.argv) > 1 else SRC / "H2O_Logo_intro_1.gif"
-PNG = Path(sys.argv[2]) if len(sys.argv) > 2 else SRC / "H2O_logo_still.png"
+PNG = Path(sys.argv[2]) if len(sys.argv) > 2 else SRC / "H2O Group Coastal Hazards Badge.png"
 LAST = 49          # first frame with the full logo; the animation stops here
 FRAME_MS = 40
 
